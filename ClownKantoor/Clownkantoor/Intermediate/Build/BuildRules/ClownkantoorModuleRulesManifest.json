@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Lamzka\\ClownKantoor\\ClownKantoor\\Clownkantoor\\Intermediate\\Source\\Clownkantoor.Build.cs",
+		"C:\\Users\\Lamzka\\ClownKantoor\\ClownKantoor\\Clownkantoor\\Intermediate\\Source\\Clownkantoor.Target.cs",
+		"C:\\Users\\Lamzka\\ClownKantoor\\ClownKantoor\\Clownkantoor\\Intermediate\\Source\\ClownkantoorClient.Target.cs",
+		"C:\\Users\\Lamzka\\ClownKantoor\\ClownKantoor\\Clownkantoor\\Intermediate\\Source\\ClownkantoorEditor.Target.cs",
+		"C:\\Users\\Lamzka\\ClownKantoor\\ClownKantoor\\Clownkantoor\\Intermediate\\Source\\ClownkantoorServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
