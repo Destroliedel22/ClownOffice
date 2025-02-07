@@ -1700,3 +1700,22 @@ The following settings have been applied:
 [2025.02.07-11.32.31:889][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms
 [2025.02.07-11.32.31:890][398]AssetCheck: New page: Asset Save: VRTemplateMap
 [2025.02.07-11.32.31:890][398]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-11.33.21:945][558]LogDerivedDataCache: C:/Users/Lamzka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.048 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1192 files in 1924 folders with total size 45 MiB.
+[2025.02.07-11.35.46:448][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-11.35.46:544][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.02.07-11.35.46:559][  2]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-11.35.46:559][  2]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMap5A6E452140F6CD61DD528892F8614FBA.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-11.35.46:565][  2]LogFileHelpers: All files are already saved.
+[2025.02.07-11.35.46:565][  2]LogFileHelpers: Saving map 'VRTemplateMap' took 0.057
+[2025.02.07-11.35.46:570][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 229 ms)
+[2025.02.07-11.35.46:571][  2]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.02.07-11.35.46:571][  2]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-11.35.46:610][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-11.35.46:693][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.02.07-11.35.46:707][  5]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-11.35.46:708][  5]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMap661E312443D49F55B3205DB127652324.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-11.35.46:713][  5]LogFileHelpers: All files are already saved.
+[2025.02.07-11.35.46:713][  5]LogFileHelpers: Saving map 'VRTemplateMap' took 0.054
+[2025.02.07-11.35.46:719][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 337 ms)
+[2025.02.07-11.35.46:720][  5]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.02.07-11.35.46:720][  5]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
