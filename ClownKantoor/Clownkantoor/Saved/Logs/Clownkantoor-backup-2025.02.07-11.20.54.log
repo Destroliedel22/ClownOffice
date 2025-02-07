@@ -1899,3 +1899,9 @@ Please set its path in Project Settings/Meta XR Plugin/PC.
 [2025.02.07-11.11.24:153][417]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2025.02.07-11.11.29:060][712]LogContentBrowser: Attempting asset rename: NewFolder -> Jordi
 [2025.02.07-11.11.29:060][712]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.07-11.15.14:501][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1317.888672
+[2025.02.07-11.15.15:502][558]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-11.15.15:502][558]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1318.556763, Update Interval: 341.908630
+[2025.02.07-11.21.19:555][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1682.941406
+[2025.02.07-11.21.20:555][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-11.21.20:555][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1683.608765, Update Interval: 311.640381
