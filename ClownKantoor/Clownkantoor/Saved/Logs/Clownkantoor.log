@@ -1829,3 +1829,73 @@ The following settings have been applied:
 [2025.02.07-10.54.44:613][560]LogSlate: Window 'Meta XR Project Setup Tool' being destroyed
 [2025.02.07-10.54.44:621][560]LogSlate: Window 'Meta XR Project Setup Tool' being destroyed
 [2025.02.07-10.55.16:401][865]LogDerivedDataCache: C:/Users/jordi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2685 files in 3973 folders with total size 551 MiB.
+[2025.02.07-10.59.20:759][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 364.145966
+[2025.02.07-10.59.21:759][986]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-10.59.21:759][986]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 364.812500, Update Interval: 316.062500
+[2025.02.07-11.03.47:190][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.02.07-11.03.47:204][911]LogPackageLocalizationCache: Processed 49 localized package path(s) for 1 prioritized culture(s) in 0.006689 seconds
+[2025.02.07-11.03.47:228][911]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1
+[2025.02.07-11.03.47:228][911]LogSavePackage: Moving '../../../../../../GLU/beroep/Periode07/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMap_Auto174CBFE834B5F011F589F5683BA196B3F.tmp' to '../../../../../../GLU/beroep/Periode07/ClownKantoor/ClownKantoor/Clownkantoor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2025.02.07-11.03.47:230][911]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../GLU/beroep/Periode07/ClownKantoor/ClownKantoor/Clownkantoor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap is in the /Temp path, will not scan.
+[2025.02.07-11.03.47:230][911]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1 is in the /Temp path, will not scan.
+[2025.02.07-11.03.47:230][911]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1 is in the /Temp path, will not scan.
+[2025.02.07-11.03.47:230][911]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.044
+[2025.02.07-11.03.47:230][911]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2025.02.07-11.04.35:915][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.07-11.04.37:919][ 60]LogSlate: Window 'Save Content' being destroyed
+[2025.02.07-11.04.37:945][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-11.04.38:006][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.02.07-11.04.38:025][ 60]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-11.04.38:025][ 60]LogSavePackage: Moving '../../../../../../GLU/beroep/Periode07/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMapA75663B041D92E8F099855BBF504A1C6.tmp' to '../../../../../../GLU/beroep/Periode07/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-11.04.38:031][ 60]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2025.02.07-11.04.38:031][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-11.04.38:127][ 60]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2025.02.07-11.04.38:127][ 60]LogSavePackage: Moving '../../../../../../GLU/beroep/Periode07/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMap_BuiltData9FB6E33C402E617C0B7AD9AEAC54833E.tmp' to '../../../../../../GLU/beroep/Periode07/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2025.02.07-11.04.38:129][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms
+[2025.02.07-11.04.38:129][ 60]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2025.02.07-11.04.38:129][ 60]LogFileHelpers: Saving map 'VRTemplateMap' took 0.139
+[2025.02.07-11.04.38:217][ 60]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2025.02.07-11.04.38:218][ 60]LogSavePackage: Moving '../../../../../../GLU/beroep/Periode07/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMap_BuiltDataDED0C5D9404BC7132774D49099A46F2E.tmp' to '../../../../../../GLU/beroep/Periode07/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2025.02.07-11.04.38:226][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 379 ms)
+[2025.02.07-11.04.38:229][ 60]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.07-11.04.38:229][ 60]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-11.04.38:230][ 60]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2025.02.07-11.04.42:240][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 685.626770
+[2025.02.07-11.04.42:391][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-11.04.42:391][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 685.760986, Update Interval: 311.186249
+[2025.02.07-11.10.01:638][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1005.025391
+[2025.02.07-11.10.02:638][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-11.10.02:638][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1005.692261, Update Interval: 302.761322
+[2025.02.07-11.10.19:215][926]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Heading'. Using FTextBlockStyle defaults instead.
+[2025.02.07-11.10.19:215][926]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Heading'. Using FTextBlockStyle defaults instead.
+[2025.02.07-11.10.19:215][926]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Heading'. Using FTextBlockStyle defaults instead.
+[2025.02.07-11.10.19:215][926]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Heading'. Using FTextBlockStyle defaults instead.
+[2025.02.07-11.10.19:216][926]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Heading'. Using FTextBlockStyle defaults instead.
+[2025.02.07-11.10.19:216][926]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Heading'. Using FTextBlockStyle defaults instead.
+[2025.02.07-11.10.19:216][926]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Heading'. Using FTextBlockStyle defaults instead.
+[2025.02.07-11.10.19:216][926]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Heading'. Using FTextBlockStyle defaults instead.
+[2025.02.07-11.10.19:216][926]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Heading'. Using FTextBlockStyle defaults instead.
+[2025.02.07-11.10.19:216][926]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Heading'. Using FTextBlockStyle defaults instead.
+[2025.02.07-11.10.34:617][849]Message dialog closed, result: Cancel, title: Download Oculus Platform Utility, text: Oculus Platform Window would like to download the latest version of the Oculus Platform Utility. Oculus Platform Utility is a command-line tool that enables the uploading of builds to your release channels on the Oculus Developer Dashboard.
+
+You can learn more about the Oculus Platform Utility at https://developer.oculus.com/distribute/publish-reference-platform-command-line-utility/
+
+Canceling will prevent the download and the UPLOAD button will be unfunctional. Would you like the tool to download the Oculus Platform Utility to your project?
+[2025.02.07-11.10.38:326][ 72]LogSlate: Window 'Meta XR Platform Tool' being destroyed
+[2025.02.07-11.10.38:335][ 72]LogSlate: Window 'Meta XR Platform Tool' being destroyed
+[2025.02.07-11.10.50:850][445]LogSlate: Window 'Message' being destroyed
+[2025.02.07-11.10.50:858][445]Message dialog closed, result: Ok, title: Message, text: Meta XR Simulator Not Found.
+Please set its path in Project Settings/Meta XR Plugin/PC.
+[2025.02.07-11.10.50:858][445]LogMetaXRSES: Error: Meta XR Simulator Not Found.
+Please set its path in Project Settings/Meta XR Plugin/PC.
+[2025.02.07-11.11.17:015][  1]LogSlate: Window 'Plugins' being destroyed
+[2025.02.07-11.11.17:022][  1]LogSlate: Window 'Plugins' being destroyed
+[2025.02.07-11.11.17:022][  1]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2025.02.07-11.11.19:704][159]LogSlate: Took 0.000619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.07-11.11.24:121][416]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.07-11.11.24:139][416]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.07-11.11.24:153][417]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.07-11.11.29:060][712]LogContentBrowser: Attempting asset rename: NewFolder -> Jordi
+[2025.02.07-11.11.29:060][712]LogContentBrowser: End creating deferred item NewFolder
