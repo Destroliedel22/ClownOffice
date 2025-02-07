@@ -1719,3 +1719,38 @@ The following settings have been applied:
 [2025.02.07-11.35.46:719][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 337 ms)
 [2025.02.07-11.35.46:720][  5]AssetCheck: New page: Asset Save: VRTemplateMap
 [2025.02.07-11.35.46:720][  5]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-11.36.41:440][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 317.001221
+[2025.02.07-11.36.42:438][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-11.36.42:438][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 317.668304, Update Interval: 346.642059
+[2025.02.07-11.38.09:761][723]LogSlate: Window 'Content Browser' being destroyed
+[2025.02.07-11.38.09:765][723]LogSlate: Window 'Content Browser' being destroyed
+[2025.02.07-11.38.45:408][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.02.07-11.38.46:367][282]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.07-11.38.46:390][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.02.07-11.38.46:394][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.07-11.38.46:398][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.07-11.38.50:897][535]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.07-11.38.50:904][535]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.07-11.38.50:914][536]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.07-11.38.54:595][757]LogContentBrowser: Attempting asset rename: NewFolder -> Raymond
+[2025.02.07-11.38.54:595][757]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.07-11.39.00:836][ 37]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.07-11.39.00:843][ 37]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.07-11.39.00:849][ 37]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.07-11.39.00:876][ 39]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.07-11.39.04:504][257]LogContentBrowser: Attempting asset rename: NewBlueprint -> FUCK
+[2025.02.07-11.39.04:514][257]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.07-11.39.05:202][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-11.39.05:247][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raymond/FUCK" FILE="../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/Raymond/FUCK.uasset" SILENT=true
+[2025.02.07-11.39.05:253][298]LogSavePackage: Moving output files for package: /Game/Raymond/FUCK
+[2025.02.07-11.39.05:253][298]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/FUCK97D220B644EFA827DBA5D09FD5758551.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/Raymond/FUCK.uasset'
+[2025.02.07-11.39.05:265][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 400 ms)
+[2025.02.07-11.39.05:266][298]AssetCheck: New page: Asset Save: FUCK
+[2025.02.07-11.39.05:266][298]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Raymond/FUCK.FUCK
+[2025.02.07-11.39.05:394][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-11.39.05:430][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Raymond/FUCK" FILE="../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/Raymond/FUCK.uasset" SILENT=true
+[2025.02.07-11.39.05:434][306]LogSavePackage: Moving output files for package: /Game/Raymond/FUCK
+[2025.02.07-11.39.05:435][306]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/FUCK16A418EB453F8D03A1A68BA75184DABF.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/Raymond/FUCK.uasset'
+[2025.02.07-11.39.05:443][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 450 ms)
+[2025.02.07-11.39.05:446][306]AssetCheck: New page: Asset Save: FUCK
+[2025.02.07-11.39.05:446][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Raymond/FUCK.FUCK
