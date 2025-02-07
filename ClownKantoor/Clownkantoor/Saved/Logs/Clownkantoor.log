@@ -1754,3 +1754,229 @@ The following settings have been applied:
 [2025.02.07-11.39.05:443][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 450 ms)
 [2025.02.07-11.39.05:446][306]AssetCheck: New page: Asset Save: FUCK
 [2025.02.07-11.39.05:446][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Raymond/FUCK.FUCK
+[2025.02.07-11.42.32:411][999]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 667.971313
+[2025.02.07-11.42.33:410][  2]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-11.42.33:411][  2]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 668.637634, Update Interval: 345.680725
+[2025.02.07-11.48.25:458][ 58]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1021.018372
+[2025.02.07-11.48.26:458][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-11.48.26:458][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1021.684998, Update Interval: 337.697083
+[2025.02.07-11.54.15:181][107]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1370.742432
+[2025.02.07-11.54.16:182][110]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-11.54.16:182][110]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1371.410034, Update Interval: 315.238495
+[2025.02.07-11.59.54:251][124]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1709.809937
+[2025.02.07-11.59.55:251][127]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-11.59.55:251][127]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1710.476562, Update Interval: 347.841431
+[2025.02.07-12.06.21:001][284]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2096.558838
+[2025.02.07-12.06.22:000][287]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-12.06.22:000][287]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2097.225342, Update Interval: 325.890076
+[2025.02.07-12.12.23:759][372]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2459.314697
+[2025.02.07-12.12.24:759][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-12.12.24:759][375]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2459.981689, Update Interval: 338.964203
+[2025.02.07-12.18.50:908][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2846.464600
+[2025.02.07-12.18.51:907][536]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-12.18.51:907][536]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2847.129150, Update Interval: 333.298737
+[2025.02.07-12.25.02:419][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3217.972656
+[2025.02.07-12.25.03:420][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-12.25.03:420][650]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3218.640381, Update Interval: 319.949951
+[2025.02.07-12.31.03:511][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3579.063232
+[2025.02.07-12.31.04:513][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.07-12.31.04:513][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3579.731445, Update Interval: 308.254639
+[2025.02.07-12.31.52:879][ 62]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.07-12.31.52:902][ 62]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.07-12.31.52:912][ 63]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.07-12.31.59:890][482]LogContentBrowser: Attempting asset rename: NewFolder -> Arend
+[2025.02.07-12.31.59:891][482]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.07-12.32.09:025][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.32.09:119][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.07-12.32.09:134][802]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-12.32.09:134][802]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMapCE2805AA4A7885BBAC9F03B63597B05A.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-12.32.09:141][802]LogFileHelpers: All files are already saved.
+[2025.02.07-12.32.09:141][802]LogFileHelpers: Saving map 'VRTemplateMap' took 0.063
+[2025.02.07-12.32.09:145][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 571 ms)
+[2025.02.07-12.32.09:147][802]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.02.07-12.32.09:147][802]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-12.32.15:536][983]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.07-12.32.15:553][983]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.07-12.32.15:581][985]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.07-12.32.16:258][ 26]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2025.02.07-12.32.16:259][ 26]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.07-12.33.00:360][765]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.07-12.33.00:368][765]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.07-12.33.00:374][765]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.07-12.33.00:399][767]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.07-12.33.02:077][868]LogContentBrowser: Attempting asset rename: NewBlueprint -> test
+[2025.02.07-12.33.02:082][868]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.07-12.33.21:959][  6]LogDerivedDataCache: C:/Users/Lamzka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.062 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1192 files in 1924 folders with total size 45 MiB.
+[2025.02.07-12.33.50:948][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.33.51:036][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.02.07-12.33.51:053][215]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-12.33.51:053][215]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMapD00866C941ED5C995793AC80891EC7AC.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-12.33.51:059][215]LogFileHelpers: All files are already saved.
+[2025.02.07-12.33.51:059][215]LogFileHelpers: Saving map 'VRTemplateMap' took 0.058
+[2025.02.07-12.33.51:064][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 686 ms)
+[2025.02.07-12.33.51:065][215]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.02.07-12.33.51:065][215]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-12.34.34:097][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.34.34:196][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.02.07-12.34.34:211][593]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-12.34.34:212][593]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMap7D343DEF4F04941CD2F8FABB7C9FAF29.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-12.34.34:217][593]LogFileHelpers: All files are already saved.
+[2025.02.07-12.34.34:217][593]LogFileHelpers: Saving map 'VRTemplateMap' took 0.065
+[2025.02.07-12.34.34:222][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 810 ms)
+[2025.02.07-12.34.34:223][593]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.02.07-12.34.34:223][593]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-12.34.36:131][698]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.DataChannel'.'
+[2025.02.07-12.34.41:140][981]LogSlate: Window 'Content Browser' being destroyed
+[2025.02.07-12.34.41:145][981]LogSlate: Window 'Content Browser' being destroyed
+[2025.02.07-12.34.48:959][116]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.02.07-12.34.48:959][116]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2025.02.07-12.34.50:149][183]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Arend/test.test
+[2025.02.07-12.34.50:151][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.07-12.34.50:151][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.07-12.34.50:165][183]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2025.02.07-12.34.50:324][183]LogClass: Warning: Short type name "EOculusLocationFlags" provided for TryFindType. Please convert it to a path name (suggested: "/Script/OculusXRAnchors.EOculusLocationFlags"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.02.07-12.34.50:882][183]LogViewport: Scene viewport resized to 738x511, mode Windowed.
+[2025.02.07-12.34.52:662][266]LogSlate: Window 'test' being destroyed
+[2025.02.07-12.34.52:667][266]LogSlate: Window 'test' being destroyed
+[2025.02.07-12.34.52:673][266]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.02.07-12.34.52:673][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.07-12.35.07:048][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.35.07:147][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.02.07-12.35.07:162][443]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-12.35.07:162][443]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMapBFBA204741B20E57E3CE10A1ACE814F7.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-12.35.07:169][443]LogFileHelpers: All files are already saved.
+[2025.02.07-12.35.07:169][443]LogFileHelpers: Saving map 'VRTemplateMap' took 0.066
+[2025.02.07-12.35.07:173][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 935 ms)
+[2025.02.07-12.35.07:175][443]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.02.07-12.35.07:175][443]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-12.35.07:247][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.35.07:341][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.02.07-12.35.07:356][448]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-12.35.07:356][448]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMap4AF9A3C347590A885FEEF982840ADA90.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-12.35.07:362][448]LogFileHelpers: All files are already saved.
+[2025.02.07-12.35.07:363][448]LogFileHelpers: Saving map 'VRTemplateMap' took 0.060
+[2025.02.07-12.35.07:367][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1.05 sec)
+[2025.02.07-12.35.07:368][448]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.02.07-12.35.07:368][448]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-12.35.07:424][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.35.07:527][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.02.07-12.35.07:542][452]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-12.35.07:543][452]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMap60E8152342B2416E35225C99BE20FD19.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-12.35.07:549][452]LogFileHelpers: All files are already saved.
+[2025.02.07-12.35.07:549][452]LogFileHelpers: Saving map 'VRTemplateMap' took 0.064
+[2025.02.07-12.35.07:553][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 1.18 sec)
+[2025.02.07-12.35.07:554][452]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.02.07-12.35.07:554][452]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-12.35.07:612][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.35.07:691][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.02.07-12.35.07:706][456]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-12.35.07:707][456]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMap97D60DA94A56053B421E0BA546699E81.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-12.35.07:713][456]LogFileHelpers: All files are already saved.
+[2025.02.07-12.35.07:713][456]LogFileHelpers: Saving map 'VRTemplateMap' took 0.060
+[2025.02.07-12.35.07:724][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.29 sec)
+[2025.02.07-12.35.07:725][456]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.02.07-12.35.07:725][456]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-12.35.07:801][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.35.07:889][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.07-12.35.07:904][461]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-12.35.07:904][461]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMap74FB5DF04B137E90317856A29A1ECF2F.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-12.35.07:911][461]LogFileHelpers: All files are already saved.
+[2025.02.07-12.35.07:911][461]LogFileHelpers: Saving map 'VRTemplateMap' took 0.059
+[2025.02.07-12.35.07:915][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.40 sec)
+[2025.02.07-12.35.07:916][461]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.02.07-12.35.07:916][461]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-12.35.07:971][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.35.08:084][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.07-12.35.08:098][465]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-12.35.08:098][465]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMap86FDFB2848029BB0AE10F1B22BD3ED9D.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-12.35.08:104][465]LogFileHelpers: All files are already saved.
+[2025.02.07-12.35.08:105][465]LogFileHelpers: Saving map 'VRTemplateMap' took 0.068
+[2025.02.07-12.35.08:109][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 1.54 sec)
+[2025.02.07-12.35.08:110][465]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.02.07-12.35.08:110][465]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-12.35.08:250][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.35.08:342][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.07-12.35.08:356][474]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.02.07-12.35.08:356][474]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/VRTemplateMapE129D43448C2808B2B0CBD86C1B21340.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.02.07-12.35.08:362][474]LogFileHelpers: All files are already saved.
+[2025.02.07-12.35.08:362][474]LogFileHelpers: Saving map 'VRTemplateMap' took 0.062
+[2025.02.07-12.35.08:367][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1.66 sec)
+[2025.02.07-12.35.08:368][474]AssetCheck: New page: Asset Save: VRTemplateMap
+[2025.02.07-12.35.08:368][474]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2025.02.07-12.35.12:092][658]LogClass: Warning: Short type name "EOculusLocationFlags" provided for TryFindType. Please convert it to a path name (suggested: "/Script/OculusXRAnchors.EOculusLocationFlags"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.02.07-12.35.12:101][658]LogClass: Warning: Short type name "EOculusLocationFlags" provided for TryFindType. Please convert it to a path name (suggested: "/Script/OculusXRAnchors.EOculusLocationFlags"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.02.07-12.35.13:579][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.02.07-12.35.14:517][743]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.07-12.35.14:540][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.07-12.35.14:551][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.07-12.35.14:560][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.07-12.35.16:519][857]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.02.07-12.35.16:525][857]LogContentBrowser: Creating deferred item: NewWorld
+[2025.02.07-12.35.16:554][859]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.02.07-12.35.20:756][111]LogContentBrowser: Attempting asset rename: NewWorld -> FUCKYOU
+[2025.02.07-12.35.20:764][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.07-12.35.20:764][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.07-12.35.20:766][111]LogContentBrowser: End creating deferred item NewWorld
+[2025.02.07-12.35.22:463][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.35.22:525][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arend/FUCKYOU" FILE="../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/Arend/FUCKYOU.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.07-12.35.22:538][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.02.07-12.35.22:539][213]LogSavePackage: Moving output files for package: /Game/Arend/FUCKYOU
+[2025.02.07-12.35.22:539][213]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/FUCKYOU01207E82485F0793C766B987C3711BE4.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/Arend/FUCKYOU.umap'
+[2025.02.07-12.35.22:547][213]LogFileHelpers: Saving map 'FUCKYOU' took 0.023
+[2025.02.07-12.35.22:551][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.75 sec)
+[2025.02.07-12.35.22:552][213]AssetCheck: New page: Asset Save: FUCKYOU
+[2025.02.07-12.35.22:552][213]LogContentValidation: Display: Validating /Script/Engine.World /Game/Arend/FUCKYOU.FUCKYOU
+[2025.02.07-12.35.22:643][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.35.22:701][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arend/FUCKYOU" FILE="../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/Arend/FUCKYOU.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.07-12.35.22:713][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.07-12.35.22:716][219]LogSavePackage: Moving output files for package: /Game/Arend/FUCKYOU
+[2025.02.07-12.35.22:716][219]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/FUCKYOU2D8948A24B907E631D7658A7382A3D2E.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/Arend/FUCKYOU.umap'
+[2025.02.07-12.35.22:725][219]LogFileHelpers: Saving map 'FUCKYOU' took 0.024
+[2025.02.07-12.35.22:730][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.84 sec)
+[2025.02.07-12.35.22:732][219]AssetCheck: New page: Asset Save: FUCKYOU
+[2025.02.07-12.35.22:732][219]LogContentValidation: Display: Validating /Script/Engine.World /Game/Arend/FUCKYOU.FUCKYOU
+[2025.02.07-12.35.22:788][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.07-12.35.22:835][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arend/FUCKYOU" FILE="../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/Arend/FUCKYOU.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.07-12.35.22:851][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.07-12.35.22:854][223]LogSavePackage: Moving output files for package: /Game/Arend/FUCKYOU
+[2025.02.07-12.35.22:854][223]LogSavePackage: Moving '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Saved/FUCKYOUDF119F444EAA5A1F6CEE3481B4CD3130.tmp' to '../../../../Users/Lamzka/ClownKantoor/ClownKantoor/Clownkantoor/Content/Arend/FUCKYOU.umap'
+[2025.02.07-12.35.22:862][223]LogFileHelpers: Saving map 'FUCKYOU' took 0.028
+[2025.02.07-12.35.22:869][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.92 sec)
+[2025.02.07-12.35.22:871][223]AssetCheck: New page: Asset Save: FUCKYOU
+[2025.02.07-12.35.22:871][223]LogContentValidation: Display: Validating /Script/Engine.World /Game/Arend/FUCKYOU.FUCKYOU
