@@ -1,24 +1,40 @@
-[0228/115157.853:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0228/115355.902:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0228/124412.038:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
-
-[0228/124412.120:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(125,1): warning X4000: use of potentially uninitialized variable (f_mainImage)
-
-[0228/124412.174:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
-
-[0228/124424.971:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
-
-[0228/124425.033:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(125,1): warning X4000: use of potentially uninitialized variable (f_mainImage)
-
-[0228/124425.077:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
-
+[0303/135717.616:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0303/135915.602:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0303/163529.874:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0303/163530.182:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+[0303/163530.189:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 3 time(s)
+[0303/163530.197:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 4 time(s)
+[0303/163530.204:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 5 time(s)
+[0303/163530.211:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 6 time(s)
+[0303/163530.836:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163530.837:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163531.504:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163531.504:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163532.170:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163532.171:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163532.514:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163532.514:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163532.839:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163533.504:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163533.505:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163534.171:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163534.171:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163534.514:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163534.838:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163535.180:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163535.180:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163535.505:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163535.847:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163536.171:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163536.837:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163536.837:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163537.504:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163537.504:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163538.172:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163538.172:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163538.839:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163538.839:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163539.506:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163539.507:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0303/163540.174:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
+[0303/163540.174:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
