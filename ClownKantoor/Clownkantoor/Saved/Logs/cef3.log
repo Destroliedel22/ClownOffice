@@ -1,40 +1,2 @@
-[0303/135717.616:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0303/135915.602:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0303/163529.874:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
-[0303/163530.182:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
-[0303/163530.189:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 3 time(s)
-[0303/163530.197:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 4 time(s)
-[0303/163530.204:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 5 time(s)
-[0303/163530.211:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 6 time(s)
-[0303/163530.836:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163530.837:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163531.504:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163531.504:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163532.170:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163532.171:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163532.514:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163532.514:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163532.839:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163533.504:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163533.505:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163534.171:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163534.171:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163534.514:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163534.838:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163535.180:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163535.180:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163535.505:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163535.847:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163536.171:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163536.837:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163536.837:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163537.504:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163537.504:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163538.172:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163538.172:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163538.839:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163538.839:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163539.506:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163539.507:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0303/163540.174:ERROR:browser_gpu_channel_host_factory.cc(154)] Failed to launch GPU process.
-[0303/163540.174:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0304/121334.187:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0304/121531.377:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
