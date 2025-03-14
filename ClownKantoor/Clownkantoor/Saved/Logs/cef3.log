@@ -1,2 +1,17 @@
-[0311/141617.383:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0311/141815.611:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0314/103307.211:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0314/103307.272:WARNING:storage_block-inl.h(146)] Failed data load.
+[0314/103307.273:WARNING:storage_block-inl.h(146)] Failed data load.
+[0314/103307.274:WARNING:storage_block-inl.h(146)] Failed data load.
+[0314/103307.275:WARNING:storage_block-inl.h(146)] Failed data load.
+[0314/103307.275:ERROR:entry_impl.cc(998)] Failed to save user data
+[0314/103307.275:ERROR:entry_impl.cc(998)] Failed to save user data
+[0314/103308.669:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0314/103332.324:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0314/103332.325:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/Jada.deBruijn/ClownKantoor2/ClownKantoor/Clownkantoor/Saved/webcache_4430\Cache to C:/Users/Jada.deBruijn/ClownKantoor2/ClownKantoor/Clownkantoor/Saved/webcache_4430\old_Cache_001
+[0314/103332.325:ERROR:disk_cache.cc(184)] Unable to create cache
+[0314/103337.155:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0314/103505.602:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0314/103529.676:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0314/104100.360:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0314/104100.361:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/Jada.deBruijn/ClownKantoor2/ClownKantoor/Clownkantoor/Saved/webcache_4430\Cache to C:/Users/Jada.deBruijn/ClownKantoor2/ClownKantoor/Clownkantoor/Saved/webcache_4430\old_Cache_000
+[0314/104100.361:ERROR:disk_cache.cc(184)] Unable to create cache
